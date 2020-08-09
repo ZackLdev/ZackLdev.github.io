@@ -1,2 +1,2 @@
 # ZackLdev.github.io
-This Repository is build for testing purpose
+This Repository is built for testing purpose
